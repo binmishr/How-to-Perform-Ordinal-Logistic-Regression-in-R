@@ -1,0 +1,1 @@
+# How-to-Perform-Ordinal-Logistic-Regression-in-R
